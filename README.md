@@ -3,9 +3,7 @@
 <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="exploring" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-akshay-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="i-akshay-kumar" /> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **MEVN/MERN**
+- 🌱 I’m currently learning **MERN**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
